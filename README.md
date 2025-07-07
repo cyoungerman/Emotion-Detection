@@ -19,7 +19,7 @@ This was built as the final project for the IBM Developing AI Applications with 
 - Pylint
 - HTML/CSS
 
-What I Learned 
+## What I Learned 
 - Building production-ready Flask apps
 - Interfacing with IBM Watson NLP APIs
 - Writing reusable and testable Python code
