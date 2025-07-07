@@ -21,13 +21,13 @@ This was built as the final project for the IBM Developing AI Applications with 
 
 ## Project Structure 
 EmotionDetection/
--static/                       # CSS & JS assets
--templates/                    # HTML templates
--app.py                        # Main Flask app
--server.py                     # Logic for handling
--emotion_detection.py          # Watson NLP integration
--test_app.py                   # Unit tests
--requirements.txt              #Project dependencies
+- static/                       # CSS & JS assets
+- templates/                    # HTML templates
+- app.py                        # Main Flask app
+- server.py                     # Logic for handling
+- emotion_detection.py          # Watson NLP integration
+- test_app.py                   # Unit tests
+- requirements.txt              #Project dependencies
 
 
 What I Learned 
